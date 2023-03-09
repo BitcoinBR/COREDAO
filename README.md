@@ -1,2 +1,11 @@
 # COREDAO
 CoreDAO (COREDAO) ERC-20 Contract
+
+Core DAO (COREDAO) [CORE Blockchain]
+Contract: 0x875d48406237e88cbcf848029b7caf8c629200a8
+
+Core DAO (COREDAO) [BSC]
+Contract: 0xcdf54b14a9609768765a86f4c8d17b02ea698a9e
+
+Core DAO (COREDAO) [ETH]
+Contract: 0x5dc40ea47ff3897802eb20b581cfc4f5090753c4
